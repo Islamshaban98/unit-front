@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="Group_47" data-name="Group 47" transform="translate(-0.133 0.171)">
+    <g id="linkedin-logo_1_" data-name="linkedin-logo (1)" transform="translate(7.421 7.421)">
+      <path id="LinkedIn" d="M12.141,17.1v4.761h-2.6V17.422c0-1.116-.376-1.878-1.318-1.878a1.435,1.435,0,0,0-1.335,1.01,2,2,0,0,0-.086.673v4.637H4.2s.035-7.524,0-8.3H6.8v1.177l-.017.027H6.8v-.027a2.566,2.566,0,0,1,2.346-1.372C10.857,13.366,12.141,14.553,12.141,17.1ZM1.473,9.558a1.435,1.435,0,1,0-.035,2.87h.017a1.435,1.435,0,1,0,.017-2.87ZM.155,21.865h2.6v-8.3H.155Z" transform="translate(0 -9.558)" fill="#fff"/>
+    </g>
+    <g id="Ellipse_17" data-name="Ellipse 17" transform="translate(0.133 -0.171)" fill="none" stroke="#fff" stroke-width="1">
+      <circle cx="14" cy="14" r="14" stroke="none"/>
+      <circle cx="14" cy="14" r="13.5" fill="none"/>
+    </g>
+  </g>
+</svg>
